@@ -47,7 +47,7 @@ Quick Start Instructions
 ------------------------
 1. Requirements:
 
-   * Xcdoe 12.1 is required 
+   * Xcode 12.1 is required 
    * Python 3.8 must be installed
    * cookiecutter, briefcase, pbxproj, and setuptools python packages must be installed::
 
