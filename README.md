@@ -1,5 +1,5 @@
 # OneKey-Wallet
-Efficiency and secure crypto wallet for Bitcoin, Ethereum and morre.
+Efficiency and secure crypto wallet for Bitcoin, Ethereum and more.
 
 ![git_hero_page.png](https://i.loli.net/2020/12/08/x2opCfVmEnK6XYq.png "OneKey Preview")
 
@@ -8,15 +8,15 @@ Efficiency and secure crypto wallet for Bitcoin, Ethereum and morre.
 |  ----  | ----  |  ----  |
 | 🖥️ Official Web Site  | https://www.onekey.so/ | DO NOT visit other fishing sites |
 | ⬇️ Download  | https://download.onekey.so/  | Both Android and iOS supported |
-| 😊 Community | https://t.me/onekeyhq | Join us and talk! |
+| 😊 Community | https://discord.com/invite/nwUJaTzjzv | Join us and talk! |
 
 ## 📱 OneKey App Works on
-* iOS Device with system version **11.0 or above**
+* iOS Device with system version **13.0 or above**
 * Android Device with system version **8.0 or above**
 
 ## 📝 Translations
 ##### Wanna help us to make OneKey global?
-* [Co-Translate](https://www.transifex.com/onekey)
+* Please drop us an email (hi@onekey.so) so that we can put you in the translation team, or, go visit https://discord.com/invite/nwUJaTzjzv and say hi, we'll have you onboard.
 
 ## 🔋 Hardware
 Not only is OneKey's software all open source, but the hardware is also completely open source, from the circuit boards to the 3D structures, and we've opened up all the information so you can print these enclosures and build your own OneKey if you're interested.
@@ -145,6 +145,7 @@ update ID references in the code.
 * 🖥️ Website: https://www.onekey.so/
 * 📮 E-mail: hi@onekey.so
 * 🐦 Twitter: [@OneKeyHQ](https://twitter.com/OneKeyHQ "OneKey on twitter")
-* 🧣 Weibo: [@OneKey钱包](https://weibo.com/u/7503920127 "OneKey on Weibo")
+* 🧣 Weibo: [@OneKeyHQ](https://weibo.com/u/7503920127 "OneKey on Weibo")
+* 👻 Discord: https://discord.com/invite/nwUJaTzjzv
 
 TBD....
