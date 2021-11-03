@@ -1,4 +1,13 @@
 # OneKey-Wallet
+
+### [IMPORTANT] 
+
+### 🚧 This repo has been deprecated due to a lot of updates and changes, please go to OneKey [official project page](https://github.com/OneKeyHQ) to find the repo or code you need.
+
+
+-------
+
+
 Efficiency and secure crypto wallet for Bitcoin, Ethereum and more.
 
 ![git_hero_page.png](https://i.loli.net/2020/12/08/x2opCfVmEnK6XYq.png "OneKey Preview")
